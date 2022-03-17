@@ -8,4 +8,6 @@ Using the pen tool on Figma was a little harder than I expected, mainly because 
 
 Once I had it made the rest was pretty simple other than formatting the SVG code, it wouldn't format despite all the extensions I downloaded but I eventually got it to format which made it easier to work with.
 
+I couldn't find any really cool fonts to use for the letters but my moodboard below was the inspiration for the logos.
+
 ![Moodboard](assets/images/Group%201.png)
