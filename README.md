@@ -8,4 +8,4 @@ Using the pen tool on Figma was a little harder than I expected, mainly because 
 
 Once I had it made the rest was pretty simple other than formatting the SVG code, it wouldn't format despite all the extensions I downloaded but I eventually got it to format which made it easier to work with.
 
-![Moodboard](Group 1.png)
+![Moodboard](assets/images/Group%201.png)
