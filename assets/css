@@ -1,0 +1,19 @@
+svg {
+  max-width: 40vh;
+}
+
+.letters {
+  fill: whitesmoke;
+}
+
+path {
+  fill: black;
+}
+
+.outline {
+  stroke-width: 3px;
+}
+
+img {
+  max-width: 40vh;
+}
